@@ -1,0 +1,14 @@
+.container {
+    border: 1px solid;
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.titleContainer {
+    background-color: #9bf3f3;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}

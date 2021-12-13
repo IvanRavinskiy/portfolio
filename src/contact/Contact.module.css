@@ -1,0 +1,24 @@
+.contactBlock {
+    background-color: #b1e5ae;
+    height: 25vh;
+    padding-bottom: 10px;
+}
+
+.containerContact {
+    flex-direction: column;
+
+}
+
+.contactForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.contactFormArea {
+    width: 280px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+}

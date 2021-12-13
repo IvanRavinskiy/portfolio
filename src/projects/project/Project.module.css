@@ -1,0 +1,10 @@
+.project {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+
+.img {
+    width: 150px;
+    height: 100px;
+}
