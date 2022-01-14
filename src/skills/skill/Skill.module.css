@@ -1,6 +1,6 @@
 .skill {
     width: 250px;
-    background-color: #daa45d;
+    background: linear-gradient(-45deg, #FAF8F9, #fff);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -14,7 +14,27 @@
     width: 60px;
     background-color: #67a6a6;
 }
-
+.skillTitle{
+    color: #1e2125;
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 34px;
+    transition: 0.4s;
+    outline: none;
+    text-decoration: none;
+}
 .description {
-
+    font-weight: 500;
+    color: #ff014f;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    outline: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    text-align: left;
 }

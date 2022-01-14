@@ -8,6 +8,7 @@ import {Contact} from "./contact/Contact";
 import {Footer} from "./footer/Footer";
 
 function App() {
+   // https://inbio-react.netlify.app/index-fashion-designer-white-version/
     return (
         <div className="App">
             <Header/>

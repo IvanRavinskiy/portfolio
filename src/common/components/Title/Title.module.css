@@ -1,0 +1,11 @@
+.titleContainer {
+    font-family: 'Montserrat', sans-serif;
+    /*font-family: 'Poppins', sans-serif;*/
+    color: #3c3e41;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 1.2;
+    word-break: break-word;
+    margin: 20px 0 20px;
+    text-align: center!important;
+}

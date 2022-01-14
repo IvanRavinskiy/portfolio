@@ -12,7 +12,7 @@ export const Footer = () => {
                     <a href=''>Insta</a>
                     <a href=''>VK</a>
                 </div>
-                <div>All rights reserved 2021</div>
+                <div>© All rights reserved 2022</div>
             </div>
 
         </div>

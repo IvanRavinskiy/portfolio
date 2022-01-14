@@ -8,6 +8,12 @@
     justify-content: space-between;
 }
 
+@media screen and (max-width: 750px){
+    .container {
+        justify-content: center;
+    }
+}
+
 .text {
     width: 300px;
     background-color: bisque;

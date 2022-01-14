@@ -1,8 +1,22 @@
 .project {
     display: flex;
     flex-direction: column;
-    padding-bottom: 20px;
+    padding-bottom: 70px;
 }
+
+.projectTitle {
+    color: #1e2125;
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 34px;
+    transition: 0.4s;
+    outline: none;
+    text-decoration: none;
+    margin: 23px 0;
+}
+
 
 .img {
     width: 150px;
